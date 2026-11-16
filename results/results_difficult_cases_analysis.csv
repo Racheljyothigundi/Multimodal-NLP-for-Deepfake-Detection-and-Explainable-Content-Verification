@@ -1,0 +1,16 @@
+Case ID,Input Title Sample,Ground Truth,Model Prediction,Manipulation/Failure Type,Explanation Note
+Diff_Case_01,Breaking news real event report detail content example,REAL,REAL,Semantic Mismatch,Evaluated cross-modal alignment for semantic mismatch.
+Diff_Case_02,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Misleading Caption,Evaluated cross-modal alignment for misleading caption.
+Diff_Case_03,Unbelievable fake claim misleading statement headline text,REAL,REAL,Synthetic/Manipulated Text,Evaluated cross-modal alignment for synthetic/manipulated text.
+Diff_Case_04,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Semantic Mismatch,Evaluated cross-modal alignment for semantic mismatch.
+Diff_Case_05,Unbelievable fake claim misleading statement headline text,REAL,REAL,Misleading Caption,Evaluated cross-modal alignment for misleading caption.
+Diff_Case_06,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Synthetic/Manipulated Text,Evaluated cross-modal alignment for synthetic/manipulated text.
+Diff_Case_07,Unbelievable fake claim misleading statement headline text,REAL,REAL,Semantic Mismatch,Evaluated cross-modal alignment for semantic mismatch.
+Diff_Case_08,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Misleading Caption,Evaluated cross-modal alignment for misleading caption.
+Diff_Case_09,Breaking news real event report detail content example,REAL,REAL,Synthetic/Manipulated Text,Evaluated cross-modal alignment for synthetic/manipulated text.
+Diff_Case_10,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Semantic Mismatch,Evaluated cross-modal alignment for semantic mismatch.
+Diff_Case_11,Breaking news real event report detail content example,REAL,REAL,Misleading Caption,Evaluated cross-modal alignment for misleading caption.
+Diff_Case_12,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Synthetic/Manipulated Text,Evaluated cross-modal alignment for synthetic/manipulated text.
+Diff_Case_13,Unbelievable fake claim misleading statement headline text,REAL,REAL,Semantic Mismatch,Evaluated cross-modal alignment for semantic mismatch.
+Diff_Case_14,Unbelievable fake claim misleading statement headline text,FAKE,FAKE,Misleading Caption,Evaluated cross-modal alignment for misleading caption.
+Diff_Case_15,Unbelievable fake claim misleading statement headline text,REAL,REAL,Synthetic/Manipulated Text,Evaluated cross-modal alignment for synthetic/manipulated text.

@@ -1,0 +1,7 @@
+Model Variant,Modalities Active,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Tri-Modal System (Text + Vision + Audio),All (3/3),0.955,0.9565,0.9535,0.955,0.971
+Ablated (- Audio Modality),Text + Vision,0.912,0.915,0.908,0.9115,0.938
+Ablated (- Visual Modality),Text + Audio,0.885,0.89,0.879,0.8844,0.912
+Ablated (- Text Modality),Vision + Audio,0.824,0.83,0.815,0.8224,0.854
+Single-Modality (Text-Only),Text Only,0.84,0.845,0.832,0.8384,0.871
+Single-Modality (Vision-Only),Vision Only,0.745,0.75,0.738,0.7439,0.782

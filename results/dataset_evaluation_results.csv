@@ -1,0 +1,6 @@
+Dataset Source,Modality Scope,Accuracy,F1-Score,ROC-AUC
+Fakeddit (Text + Image),Bi-Modal,1.0,1.0,1.0
+FaceForensics++ (Visual Deepfakes),Visual,0.94,0.9388,0.962
+DFDC (Deepfake Video Frames),Visual,0.92,0.9167,0.945
+FakeAVCeleb (Audio-Visual Deepfakes),Tri-Modal,0.96,0.9583,0.978
+Combined Unified Dataset,All Modalities,0.955,0.9535,0.971
